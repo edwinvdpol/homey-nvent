@@ -46,5 +46,8 @@
   },
   "1.4.7": {
     "en": "Added translations."
+  },
+  "1.5.0": {
+    "en": "Updated name, translations and API endpoints."
   }
 }

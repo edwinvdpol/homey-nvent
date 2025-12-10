@@ -1,6 +1,6 @@
 {
   "id": "com.nvent.raychem",
-  "version": "1.4.7",
+  "version": "1.5.0",
   "compatibility": ">=7.4.0",
   "platforms": [
     "local",
