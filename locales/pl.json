@@ -3,12 +3,12 @@
     "connecting": "Łączenie..."
   },
   "error": {
-    "401": "Dane logowania do nVent API są nieprawidłowe",
-    "403": "Dostęp do tego urządzenia został zablokowany przez nVent API",
-    "404": "Urządzenie nie znalezione w koncie nVent",
-    "50x": "nVent API jest niedostępne",
-    "invalid_mode": "Nie można aktywować tego trybu",
-    "network": "nVent API jest nieosiągalne",
+    "401": "Dane uwierzytelniające API są nieprawidłowe",
+    "403": "Interfejs API odmówił dostępu do tego urządzenia",
+    "404": "Urządzenie nie zostało znalezione na Twoim koncie",
+    "50x": "Interfejs API jest niedostępny",
+    "invalid_mode": "Tego trybu nie można aktywować",
+    "network": "Interfejs API jest niedostępny",
     "offline": "Urządzenie jest offline",
     "unknown": "Wystąpił nieznany błąd"
   }

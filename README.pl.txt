@@ -1,5 +1,7 @@
-nVent RAYCHEM SENZ WIFI został stworzony z myślą o nowoczesnym właścicielu domu, który ceni sobie wysoki komfort, niskie koszty energii i piękne wnętrza. Może być używany ze wszystkimi kablami do ogrzewania podłogowego i matami grzewczymi.
+Aplikacja Raychem Homey bezproblemowo łączy termostat Raychem SENZ WIFI z systemem inteligentnego domu Homey, zapewniając lepszą kontrolę nad elektrycznym ogrzewaniem podłogowym. Aplikacja oferuje precyzyjne zarządzanie temperaturą i jej monitorowanie z dowolnego miejsca, zapewniając komfort i efektywność energetyczną w całym domu.
 
-Stąpanie po ogrzewanej podłodze robi różnicę, ogrzewanie podłogowe eliminuje chłód z posadzek i wprowadza ciepło oraz komfort do Twojego domu. To dodatkowy element luksusu, który pomaga się zrelaksować i cieszyć przytulną atmosferą w każdym pomieszczeniu, gdzie jest zainstalowane.
+Dzięki aplikacji Raychem Homey możesz tworzyć spersonalizowane harmonogramy ogrzewania i automatyzować ogrzewanie podłogowe w oparciu o swoją codzienną rutynę. Otrzymuj natychmiastowe powiadomienia o zmianach temperatury, dostosuj ustawienia zgodnie z prognozą pogody lub zintegruj je z innymi inteligentnymi urządzeniami, aby zoptymalizować zużycie energii.
 
-WAŻNE: nVent nie pozwala na ustawienie trybu "Wakacje" lub "Wył.". Może wystąpić minutowe opóźnienie przed aktualizacją niektórych funkcji.
+Niezależnie od tego, czy chcesz zmaksymalizować komfort, poprawić oszczędności energii, czy rozszerzyć możliwości inteligentnego domu, aplikacja Raychem Homey oferuje inteligentne zarządzanie ogrzewaniem na wyciągnięcie ręki.
+
+Aby korzystać z tej aplikacji, potrzebujesz aktywnego konta Chemelex.

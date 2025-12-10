@@ -1,5 +1,7 @@
-nVent RAYCHEM SENZ WIFI er udviklet til at passe til den moderne husejer, der prioriterer høj komfort, lave energiomkostninger og et smukt hjem. Det kan bruges med alle gulvvarmekabler og varmemåtter.
+Raychem Homey-appen forbinder problemfrit din Raychem SENZ WIFI-termostat med Homey smart home-systemet, hvilket giver forbedret kontrol over din elektriske gulvvarme. Denne app tilbyder præcis temperaturstyring og overvågning fra hvor som helst, hvilket sikrer komfort og energieffektivitet i hele dit hjem.
 
-At træde på et opvarmet gulv gør alverden til forskel, strålende gulvvarme fjerner kulden fra dine gulve og bringer varme og komfort ind i dit hjem. Det tilføjer det lille strejf af luksus, der hjælper dig med at slappe af og nyde den hyggelige atmosfære i ethvert rum, du har det installeret.
+Med Raychem Homey-appen kan du oprette brugerdefinerede varmeplaner og automatisere din gulvvarme baseret på din daglige rutine. Modtag øjeblikkelige advarsler om temperaturændringer, juster indstillinger i henhold til vejrudsigter, eller integrer med andre smarte enheder for at optimere energiforbruget.
 
-VIGTIGT: nVent tillader ikke at sætte tilstanden til "Ferie" eller "Fra". Der kan være en forsinkelse på 1 minut, før nogle funktioner opdateres.
+Uanset om du maksimerer komforten, forbedrer energibesparelser eller udvider dine smart home-funktioner, tilbyder Raychem Homey-appen intelligent varmestyring lige ved hånden.
+
+For at bruge denne app skal du have en aktiv Chemelex-konto.

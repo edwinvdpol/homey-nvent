@@ -1,5 +1,7 @@
-nVent RAYCHEM SENZ WIFI est conçu pour convenir au propriétaire moderne, qui privilégie le confort élevé, les coûts énergétiques réduits et un intérieur magnifique. Il peut être utilisé avec tous les câbles de chauffage au sol et tapis chauffants.
+L'application Raychem Homey connecte facilement votre thermostat Raychem SENZ WIFI au système domotique Homey, pour un contrôle optimal de votre chauffage au sol électrique. Cette application permet une gestion et un suivi précis de la température, où que vous soyez, garantissant confort et efficacité énergétique dans toute votre maison.
 
-Marcher sur un sol chauffé fait toute la différence, le chauffage par le sol radiant élimine la fraîcheur de vos sols et apporte chaleur et confort dans votre maison. Cela ajoute une petite touche de luxe qui vous aide à vous détendre et à profiter de l'atmosphère chaleureuse dans n'importe quelle pièce où il est installé.
+Avec l'application Raychem Homey, créez des programmes de chauffage personnalisés et automatisez votre chauffage au sol selon vos habitudes quotidiennes. Recevez des alertes instantanées en cas de changement de température, ajustez les paramètres en fonction des prévisions météo ou connectez-vous à d'autres appareils connectés pour optimiser votre consommation d'énergie.
 
-IMPORTANT : nVent ne permet pas de régler le mode sur "Vacances" ou "Arrêt". Il peut y avoir un délai d'une minute avant que certaines fonctionnalités ne soient mises à jour.
+Que vous souhaitiez maximiser votre confort, réaliser des économies d'énergie ou étendre les fonctionnalités de votre maison connectée, l'application Raychem Homey vous offre une gestion intelligente du chauffage à portée de main.
+
+Pour utiliser cette application, vous devez posséder un compte Chemelex actif.

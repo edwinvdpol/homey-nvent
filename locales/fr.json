@@ -3,13 +3,13 @@
     "connecting": "Connexion en cours..."
   },
   "error": {
-    "401": "Les identifiants API de nVent sont incorrects",
-    "403": "L'API nVent a refusé l'accès à cet appareil",
-    "404": "Appareil introuvable dans le compte nVent",
-    "50x": "L'API nVent est indisponible",
+    "401": "Identifiants API incorrects",
+    "403": "L'API a refusé l'accès à cet appareil",
+    "404": "Appareil introuvable dans votre compte",
+    "50x": "API indisponible",
     "invalid_mode": "Ce mode ne peut pas être activé",
-    "network": "L'API nVent est injoignable",
-    "offline": "L'appareil est hors ligne",
+    "network": "API inaccessible",
+    "offline": "Appareil hors ligne",
     "unknown": "Une erreur inconnue s'est produite"
   }
 }

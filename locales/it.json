@@ -3,12 +3,12 @@
     "connecting": "Collegamento in corso..."
   },
   "error": {
-    "401": "Le credenziali API di nVent sono errate",
-    "403": "L'API di nVent ha negato l'accesso a questo dispositivo",
-    "404": "Dispositivo non trovato nell'account nVent",
-    "50x": "L'API di nVent non è disponibile",
+    "401": "Le credenziali API sono errate",
+    "403": "L'API ha negato l'accesso a questo dispositivo",
+    "404": "Dispositivo non trovato nel tuo account",
+    "50x": "API non disponibile",
     "invalid_mode": "Questa modalità non può essere attivata",
-    "network": "L'API di nVent non è raggiungibile",
+    "network": "API non raggiungibile",
     "offline": "Dispositivo offline",
     "unknown": "Si è verificato un errore sconosciuto"
   }

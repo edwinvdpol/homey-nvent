@@ -10,18 +10,18 @@
   "sdk": 3,
   "brandColor": "#C4262E",
   "name": {
-    "en": "nVent Raychem",
-    "nl": "nVent Raychem",
-    "da": "nVent Raychem",
-    "de": "nVent Raychem",
-    "es": "nVent Raychem",
-    "fr": "nVent Raychem",
-    "it": "nVent Raychem",
-    "no": "nVent Raychem",
-    "sv": "nVent Raychem",
-    "pl": "nVent Raychem",
-    "ru": "nVent Raychem",
-    "ko": "nVent Raychem"
+    "en": "Raychem SENZ WIFI",
+    "nl": "Raychem SENZ WIFI",
+    "da": "Raychem SENZ WIFI",
+    "de": "Raychem SENZ WIFI",
+    "es": "Raychem SENZ WIFI",
+    "fr": "Raychem SENZ WIFI",
+    "it": "Raychem SENZ WIFI",
+    "no": "Raychem SENZ WIFI",
+    "sv": "Raychem SENZ WIFI",
+    "pl": "Raychem SENZ WIFI",
+    "ru": "Raychem SENZ WIFI",
+    "ko": "Raychem SENZ WIFI"
   },
   "description": {
     "en": "The new generation of floor heating thermostats",
@@ -42,6 +42,7 @@
   ],
   "tags": {
     "en": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -53,6 +54,7 @@
       "thermostat"
     ],
     "nl": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -64,6 +66,7 @@
       "thermostaat"
     ],
     "da": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -75,6 +78,7 @@
       "termostat"
     ],
     "de": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -86,6 +90,7 @@
       "thermostat"
     ],
     "es": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -97,6 +102,7 @@
       "termostato"
     ],
     "fr": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -108,6 +114,7 @@
       "thermostat"
     ],
     "it": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -119,6 +126,7 @@
       "termostato"
     ],
     "no": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -130,6 +138,7 @@
       "termostat"
     ],
     "sv": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -141,6 +150,7 @@
       "termostat"
     ],
     "pl": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -152,6 +162,7 @@
       "termostat"
     ],
     "ru": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -163,6 +174,7 @@
       "термостат"
     ],
     "ko": [
+      "chemelex",
       "nvent",
       "raychem",
       "senz",
@@ -203,7 +215,7 @@
     "url": "https://community.homey.app/t/46749"
   },
   "homeyCommunityTopicId": 46749,
-  "homepage": "https://www.raychemfloorheating.co.uk",
+  "homepage": "https://go.nvent.com",
   "support": "https://community.homey.app/t/46749",
   "flow": {
     "triggers": [

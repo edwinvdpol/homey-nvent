@@ -1,5 +1,7 @@
-nVent RAYCHEM SENZ WIFI è sviluppato per adattarsi al proprietario di casa moderno, che dà la priorità al massimo comfort, a costi energetici ridotti e a una casa bella. Può essere utilizzato con tutti i cavi di riscaldamento a pavimento e i tappetini riscaldanti.
+L'app Raychem Homey collega perfettamente il tuo termostato Raychem SENZ WIFI al sistema di domotica Homey, offrendo un controllo avanzato sul riscaldamento elettrico a pavimento. Questa app offre una gestione e un monitoraggio precisi della temperatura da qualsiasi luogo, garantendo comfort ed efficienza energetica in tutta la casa.
 
-Camminare su un pavimento riscaldato fa tutta la differenza, il riscaldamento a pavimento radiante toglie il freddo dai tuoi pavimenti e porta calore e comfort nella tua casa. Aggiunge quel tocco di lusso che ti aiuta a rilassarti e a goderti l'atmosfera accogliente in qualsiasi stanza in cui lo installi.
+Con l'app Raychem Homey, puoi creare programmi di riscaldamento personalizzati e automatizzare il riscaldamento a pavimento in base alla tua routine quotidiana. Ricevi avvisi istantanei sulle variazioni di temperatura, regola le impostazioni in base alle previsioni meteo o integralo con altri dispositivi intelligenti per ottimizzare il consumo energetico.
 
-IMPORTANTE: nVent non consente di impostare la modalità su "Vacanza" o "Spento". Potrebbe esserci un ritardo di 1 minuto prima che alcune funzionalità vengano aggiornate.
+Che tu voglia massimizzare il comfort, migliorare il risparmio energetico o espandere le funzionalità della tua smart home, l'app Raychem Homey offre una gestione intelligente del riscaldamento a portata di mano.
+
+Per utilizzare questa app, è necessario un account Chemelex attivo.

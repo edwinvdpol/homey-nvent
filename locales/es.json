@@ -3,12 +3,12 @@
     "connecting": "Conectando..."
   },
   "error": {
-    "401": "Las credenciales de la API nVent son incorrectas",
-    "403": "La API nVent ha denegado el acceso a este dispositivo",
-    "404": "Dispositivo no encontrado en la cuenta de nVent",
-    "50x": "La API nVent no está disponible",
+    "401": "Las credenciales de la API son incorrectas",
+    "403": "La API ha denegado el acceso a este dispositivo",
+    "404": "Dispositivo no encontrado en su cuenta",
+    "50x": "La API no está disponible",
     "invalid_mode": "Este modo no se puede activar",
-    "network": "La API nVent es inalcanzable",
+    "network": "La API no está disponible",
     "offline": "El dispositivo está desconectado",
     "unknown": "Ha ocurrido un error desconocido"
   }

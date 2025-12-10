@@ -3,13 +3,13 @@
     "connecting": "Kobler til..."
   },
   "error": {
-    "401": "nVent API-legitimasjonen er feil",
-    "403": "nVent API har nektet tilgang til denne enheten",
-    "404": "Enhet ikke funnet i nVent-kontoen",
-    "50x": "nVent API er utilgjengelig",
+    "401": "API-legitimasjonen er feil",
+    "403": "API har nektet tilgang til denne enheten",
+    "404": "Enheten finnes ikke i kontoen din",
+    "50x": "API-et er ikke tilgjengelig",
     "invalid_mode": "Denne modusen kan ikke aktiveres",
-    "network": "nVent API er utilgjengelig",
-    "offline": "Enheten er offline",
+    "network": "API-et kan ikke nås",
+    "offline": "Enheten er frakoblet",
     "unknown": "En ukjent feil har oppstått"
   }
 }

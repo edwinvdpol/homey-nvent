@@ -3,12 +3,12 @@
     "connecting": "Bezig met verbinden..."
   },
   "error": {
-    "401": "Inloggegevens van de nVent API zijn onjuist",
-    "403": "nVent API heeft de toegang tot dit apparaat geweigerd",
-    "404": "Apparaat is niet gevonden in nVent account",
-    "50x": "nVent API is niet beschikbaar",
+    "401": "Inloggegevens van de API zijn onjuist",
+    "403": "API heeft de toegang tot dit apparaat geweigerd",
+    "404": "Apparaat is niet gevonden uw account",
+    "50x": "API is niet beschikbaar",
     "invalid_mode": "Deze mode kan niet geactiveerd worden",
-    "network": "nVent API is niet bereikbaar",
+    "network": "API is niet bereikbaar",
     "offline": "Apparaat is offline",
     "unknown": "Er is een onbekende fout opgetreden"
   }

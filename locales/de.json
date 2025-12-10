@@ -3,13 +3,13 @@
     "connecting": "Verbinden..."
   },
   "error": {
-    "401": "nVent API-Anmeldedaten sind falsch",
-    "403": "nVent API hat den Zugriff auf dieses Gerät verweigert",
-    "404": "Gerät im nVent-Konto nicht gefunden",
-    "50x": "nVent API ist nicht verfügbar",
+    "401": "Die API-Zugangsdaten sind falsch",
+    "403": "Der Zugriff auf dieses Gerät wurde von der API verweigert",
+    "404": "Das Gerät wurde in Ihrem Konto nicht gefunden",
+    "50x": "Die API ist nicht verfügbar",
     "invalid_mode": "Dieser Modus kann nicht aktiviert werden",
-    "network": "nVent API ist nicht erreichbar",
-    "offline": "Gerät ist offline",
+    "network": "Raychem API ist nicht erreichbar",
+    "offline": "Das Gerät ist offline",
     "unknown": "Ein unbekannter Fehler ist aufgetreten"
   }
 }
