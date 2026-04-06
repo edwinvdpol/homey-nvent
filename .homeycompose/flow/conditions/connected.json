@@ -21,7 +21,7 @@
     {
       "type": "device",
       "name": "device",
-      "filter": "driver_id=senz&capabilities=connected"
+      "filter": "driver_id=senz&capabilities=alarm_connectivity"
     }
   ]
 }

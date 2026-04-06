@@ -19,9 +19,9 @@
     "url": "https://github.com/edwinvdpol/homey-nvent.git"
   },
   "dependencies": {
-    "@microsoft/signalr": "^7.0.5",
+    "@microsoft/signalr": "^10.0.0",
     "collect.js": "^4.36.1",
-    "homey-oauth2app": "^3.7.0"
+    "homey-oauth2app": "^3.7.2"
   },
   "devDependencies": {
     "@types/homey": "npm:homey-apps-sdk-v3-types@^0.3.12"

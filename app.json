@@ -242,7 +242,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=senz&capabilities=connected"
+            "filter": "driver_id=senz&capabilities=alarm_connectivity"
           }
         ],
         "id": "connected_false"
@@ -270,7 +270,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=senz&capabilities=connected"
+            "filter": "driver_id=senz&capabilities=alarm_connectivity"
           }
         ],
         "id": "connected_true"
@@ -495,7 +495,7 @@
           {
             "type": "device",
             "name": "device",
-            "filter": "driver_id=senz&capabilities=connected"
+            "filter": "driver_id=senz&capabilities=alarm_connectivity"
           }
         ],
         "id": "connected"
