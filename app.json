@@ -221,62 +221,6 @@
     "triggers": [
       {
         "title": {
-          "en": "The connection was lost",
-          "nl": "De verbinding werd verbroken",
-          "de": "Die Verbindung war verloren",
-          "fr": "La connexion a été perdue",
-          "da": "Forbindelsen blev tabt",
-          "es": "La conexión se perdió",
-          "it": "La connessione è stata persa",
-          "no": "Forbindelsen ble brutt",
-          "sv": "Anslutningen förlorades",
-          "pl": "Połączenie zostało utracone",
-          "ru": "Соединение было потеряно",
-          "ko": "연결이 끊겼습니다"
-        },
-        "platforms": [
-          "local",
-          "cloud"
-        ],
-        "args": [
-          {
-            "type": "device",
-            "name": "device",
-            "filter": "driver_id=senz&capabilities=alarm_connectivity"
-          }
-        ],
-        "id": "connected_false"
-      },
-      {
-        "title": {
-          "en": "The connection was restored",
-          "nl": "De verbinding werd hersteld",
-          "de": "Die Verbindung wurde wiederhergestellt",
-          "fr": "La connexion a été rétablie",
-          "da": "Forbindelsen blev gendannet",
-          "es": "La conexión fue restaurada",
-          "it": "La connessione è stata ripristinata",
-          "no": "Tilkoblingen ble gjenopprettet",
-          "sv": "Anslutningen återställdes",
-          "pl": "Połączenie zostało przywrócone",
-          "ru": "Соединение было восстановлено",
-          "ko": "연결이 복원되었습니다"
-        },
-        "platforms": [
-          "local",
-          "cloud"
-        ],
-        "args": [
-          {
-            "type": "device",
-            "name": "device",
-            "filter": "driver_id=senz&capabilities=alarm_connectivity"
-          }
-        ],
-        "id": "connected_true"
-      },
-      {
-        "title": {
           "en": "Stops heating",
           "nl": "Stopt met verwarmen",
           "da": "Stopper opvarmning",
@@ -472,34 +416,6 @@
       }
     ],
     "conditions": [
-      {
-        "title": {
-          "en": "!{{Is|Is not}} connected",
-          "nl": "!{{Is|Is niet}} verbonden",
-          "de": "!{{Ist|Nicht}} verbunden",
-          "fr": "!{{Est|N'est pas}} connecté",
-          "da": "!{{Er|Er ikke}} forbundet",
-          "es": "!{{Está|No está}} conectado",
-          "it": "!{{È|Non è}} connesso",
-          "no": "!{{Er|Er ikke}} koblet",
-          "sv": "!{{Är|Är inte}} ansluten",
-          "pl": "!{{Jest|Nie jest}} połączony",
-          "ru": "!{{Подключен|Не подключен}}",
-          "ko": "!{{연결됨|연결 안 됨}}"
-        },
-        "platforms": [
-          "local",
-          "cloud"
-        ],
-        "args": [
-          {
-            "type": "device",
-            "name": "device",
-            "filter": "driver_id=senz&capabilities=alarm_connectivity"
-          }
-        ],
-        "id": "connected"
-      },
       {
         "title": {
           "en": "!{{Is|Is not}} heating",
