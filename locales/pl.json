@@ -3,13 +3,13 @@
     "connecting": "Łączenie..."
   },
   "error": {
-    "401": "Dane uwierzytelniające API są nieprawidłowe",
-    "403": "Interfejs API odmówił dostępu do tego urządzenia",
-    "404": "Urządzenie nie zostało znalezione na Twoim koncie",
-    "50x": "Interfejs API jest niedostępny",
-    "invalid_mode": "Tego trybu nie można aktywować",
-    "network": "Interfejs API jest niedostępny",
-    "offline": "Urządzenie jest offline",
-    "unknown": "Wystąpił nieznany błąd"
+    "401": "Dane uwierzytelniające API są nieprawidłowe.",
+    "403": "Interfejs API odmówił dostępu do tego urządzenia.",
+    "404": "Urządzenie nie zostało znalezione na Twoim koncie.",
+    "50x": "Interfejs API jest niedostępny.",
+    "invalid_mode": "Tego trybu nie można aktywować.",
+    "network": "Interfejs API jest niedostępny.",
+    "offline": "Urządzenie jest offline.",
+    "unknown": "Wystąpił nieznany błąd."
   }
 }

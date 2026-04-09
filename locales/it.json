@@ -3,13 +3,13 @@
     "connecting": "Collegamento in corso..."
   },
   "error": {
-    "401": "Le credenziali API sono errate",
-    "403": "L'API ha negato l'accesso a questo dispositivo",
-    "404": "Dispositivo non trovato nel tuo account",
-    "50x": "API non disponibile",
-    "invalid_mode": "Questa modalità non può essere attivata",
-    "network": "API non raggiungibile",
-    "offline": "Dispositivo offline",
-    "unknown": "Si è verificato un errore sconosciuto"
+    "401": "Le credenziali API sono errate.",
+    "403": "L'API ha negato l'accesso a questo dispositivo.",
+    "404": "Dispositivo non trovato nel tuo account.",
+    "50x": "API non disponibile.",
+    "invalid_mode": "Questa modalità non può essere attivata.",
+    "network": "API non raggiungibile.",
+    "offline": "Dispositivo offline.",
+    "unknown": "Si è verificato un errore sconosciuto."
   }
 }

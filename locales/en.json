@@ -3,13 +3,13 @@
     "connecting": "Connecting..."
   },
   "error": {
-    "401": "API credentials are incorrect",
-    "403": "API has denied access to this device",
-    "404": "Device not found in your account",
-    "50x": "API is unavailable",
-    "invalid_mode": "This mode cannot be activated",
-    "network": "API is unreachable",
-    "offline": "Device is offline",
-    "unknown": "An unknown error has occurred"
+    "401": "API credentials are incorrect.",
+    "403": "API has denied access to this device.",
+    "404": "Device not found in your account.",
+    "50x": "API is unavailable.",
+    "invalid_mode": "This mode cannot be activated.",
+    "network": "API is unreachable.",
+    "offline": "Device is offline.",
+    "unknown": "An unknown error has occurred."
   }
 }

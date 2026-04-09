@@ -3,13 +3,13 @@
     "connecting": "Kobler til..."
   },
   "error": {
-    "401": "API-legitimasjonen er feil",
-    "403": "API har nektet tilgang til denne enheten",
-    "404": "Enheten finnes ikke i kontoen din",
-    "50x": "API-et er ikke tilgjengelig",
-    "invalid_mode": "Denne modusen kan ikke aktiveres",
-    "network": "API-et kan ikke nås",
-    "offline": "Enheten er frakoblet",
-    "unknown": "En ukjent feil har oppstått"
+    "401": "API-legitimasjonen er feil.",
+    "403": "API har nektet tilgang til denne enheten.",
+    "404": "Enheten finnes ikke i kontoen din.",
+    "50x": "API-et er ikke tilgjengelig.",
+    "invalid_mode": "Denne modusen kan ikke aktiveres.",
+    "network": "API-et kan ikke nås.",
+    "offline": "Enheten er frakoblet.",
+    "unknown": "En ukjent feil har oppstått."
   }
 }
